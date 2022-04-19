@@ -647,7 +647,7 @@ hr {
 
 /* Works */
 .works {
-    overflow-x:scroll
+    overflow-x:scroll;
     display: flex;
 }
 
