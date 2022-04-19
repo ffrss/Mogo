@@ -1,5 +1,4 @@
 body {
-    overflow-x:hidden;
     margin: 0;
     font-family: 'Montserrat', sans-serif;
 
@@ -36,7 +35,7 @@ hr {
 /* Contrainer */
 .container {
     width: 100%;
-    max-width: 1200px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
